@@ -1,5 +1,5 @@
 # Quantum-ML-Algorithms-for-Heart-Disease-Detection
-In this project, I have used two Quantum Machine Learning Algorithms - 
+In this project, I have used two Quantum Machine Learning Algorithms. - 
 a) Callable Kernel QSVM 
 b) VQC
 I have used the Cleveland Dataset and applied the above algorithms. 

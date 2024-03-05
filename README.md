@@ -4,10 +4,10 @@
 
 <b>Libraries and Frameworks Utilized:</b>
 <ul>
-  <li><b>Qiskit</b>: For implementing quantum circuits and executing quantum computing algorithms, including the creation of quantum feature maps and kernel matrices.</li>
-  <li><b>Scikit-learn</b>: Employed for data preprocessing, including dimensionality reduction through PCA, data normalization, and scaling, alongside classical machine learning algorithms for benchmark comparisons.</li>
-  <li><b>Matplotlib</b>: For visualizing data distributions, kernel matrices, and algorithm performance metrics.</li>
-  <li><b>Pandas</b>: For efficient data handling and preprocessing, facilitating the manipulation of the Cleveland Dataset.</li>
+  <li><b><code>Qiskit</code></b>: For implementing quantum circuits and executing quantum computing algorithms, including the creation of quantum feature maps and kernel matrices.</li>
+  <li><b><code>Scikit-learn</code></b>: Employed for data preprocessing, including dimensionality reduction through PCA, data normalization, and scaling, alongside classical machine learning algorithms for benchmark comparisons.</li>
+  <li><b><code>Matplotlib</code></b>: For visualizing data distributions, kernel matrices, and algorithm performance metrics.</li>
+  <li><b><code>Pandas</code></b>: For efficient data handling and preprocessing, facilitating the manipulation of the Cleveland Dataset.</li>
 </ul>
 
 <b>Comparative Analysis and Insights:</b>
